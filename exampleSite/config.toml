@@ -1,3 +1,13 @@
+baseURL = "https://example.com"
+languageCode = 'en-us'
+title = "Example Site"
+theme = "nostyleplease"
+
+[params]
+  [params.theme_config]
+    back_home_text = ".."
+    date_format = "2006-01-02"
+
 [module]
   [module.hugoVersion]
     extended=true
@@ -23,8 +33,3 @@
     noHl = false
     style = 'rrt'
     tabWidth = 4
-
-[params]
-  [params.theme_config]
-    back_home_text = ".."
-    date_format = "2006-01-02"
