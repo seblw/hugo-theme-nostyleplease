@@ -11,7 +11,6 @@
 * Responsive
 * Content first (typography optimized for maximum readability)
 * RSS feed (using Hugo's embedded RSS template)
-* MathJax support
 
 ## Installation
 
